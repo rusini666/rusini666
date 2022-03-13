@@ -4,7 +4,7 @@
 
 
 - 📫 How to reach me **rusini.20200205@iit.ac.lk**
-- 🎓 I’m currently following a Bachelor's Degree in Artificial Intelligence and Data Science.
+- 🎓 I’m currently following a Bachelor's Degree in Software Engineering.
 
 
 ## 🔗: Connect with me:

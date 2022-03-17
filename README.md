@@ -27,8 +27,8 @@
 
 ## 📈: My Github Stats:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rusini666&show_icons=true&theme=gruvbox&layout=compact" alt="rusini gunarathne" /></p>
-<br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rusini666&hide=issues,contribs&count_private=true&show_icons=true&theme=gruvbox&count_private=true" alt="rusini gunarathne" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=rusini666&hide=issues,contribs&count_private=true&show_icons=true&theme=gruvbox&count_private=true" alt="rusini gunarathne" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rusini666&theme=gruvbox" alt="rusini gunarathne" /></p>
 
